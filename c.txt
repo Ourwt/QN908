@@ -4,3 +4,4 @@ create new branch2
 create a new branch!
 --no-ff test
 git pull remote test code2
+git pullremote test code1
