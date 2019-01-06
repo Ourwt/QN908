@@ -4,6 +4,7 @@ create new branch2
 create a new branch!
 --no-ff test
 
+
 git pullremote test code1
 
 git stash process
@@ -20,4 +21,7 @@ git stash process
 * 2019-01-04
 ********************
 */
+
+git pull remote test code2
+git pullremote test code1
 
